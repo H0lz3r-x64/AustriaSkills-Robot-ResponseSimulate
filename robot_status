@@ -1,0 +1,13 @@
+{
+    "IRSensorLeft": 1.9504761904761905,
+    "yPos": 2000,
+    "elevatorPosition": "-1mm",
+    "rot": 0,
+    "IRSensorRight": 1.3710460251046026,
+    "xPos": 1000,
+    "carriagePosition": 100,
+    "USSensorLeft": 125.19812399999999,
+    "USSensorRight": 772.7152439999999,
+    "lineFollowerSensor": "on line",
+    "gripperStatus": "closed"
+}
